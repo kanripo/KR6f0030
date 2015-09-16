@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:20.412343
+#+DATE: 2015-08-30 20:01:21.865146
 #+TITLE: 佛說離垢施女經
 #+PROPERTY: CBETA_ID T12n0338
 #+PROPERTY: ID KR6f0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 338
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0030_T_000-0089b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0030_T_001-0089b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.338[Nos.310(33),339]¶
-
- 佛說離垢施女經¶
+No. 338 [Nos. 310(33), 339]¶
+佛說離垢施女經¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -318,7 +317,7 @@ No.338[Nos.310(33),339]¶
 　遠現悉聞音。¶
 　毛軟亦紺色，
 　一一生上旋，¶
-　𦟛髀猶龍象，
+　[月*庸]髀猶龍象，
 　而膝平博好。¶
 　安平足如畫，
 　於下生相輪，¶
@@ -386,7 +385,7 @@ No.338[Nos.310(33),339]¶
 　不好在家？
 　又女父母，
 　而相可悅，¶
-　一切眾人，
+　一切眾入，
 　之所恭敬。
 　何故不樂，¶
 　遊坐此間？
