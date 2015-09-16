@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說離垢施女經
+#+DATE: 2015-08-30 20:01:20.707861
+#+PROPERTY: JUAN 0
